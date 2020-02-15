@@ -1,0 +1,33 @@
+body {
+    font-size: 10;
+    max-width: 1024px;
+    background-color: #3ba8c0;
+    margin: auto;
+    
+}
+header {
+    background-color: #4a545d;
+    ;
+}
+h1 {
+    background-color: #d1d9e2;
+    text-align: center;
+    
+    
+}
+
+.photo {
+    text-align: center;
+    
+}
+.contacts {
+    background-color: #d1d9e2;
+}
+
+h3 {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+}
